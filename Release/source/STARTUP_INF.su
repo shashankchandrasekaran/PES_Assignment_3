@@ -1,0 +1,2 @@
+../source/STARTUP_INF.c:14:6:startup	16	static
+../source/STARTUP_INF.c:44:6:infinite_loop	8	static

@@ -1,0 +1,3 @@
+../source/DELAY.c:13:6:delay	16	static
+../source/DELAY.c:19:6:On_delay	24	static
+../source/DELAY.c:32:6:Off_delay	24	static
