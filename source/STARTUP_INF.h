@@ -1,9 +1,8 @@
 /*
- * STARTUP_INF.h
- *
- *  Created on: Sep 28, 2022
- *      Author: Shashank Chandrasekaran
- */
+ * File name: STARTUP_INF.h
+ * Created by: Shashank Chandrasekaran
+ * Description: This h file contains the LED startup and infinite loop declarations
+ * */
 
 #ifndef STARTUP_INF_H_
 #define STARTUP_INF_H_

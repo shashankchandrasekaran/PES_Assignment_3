@@ -8,7 +8,7 @@
 #include "TSI.h"
 #include "LED_ON_OFF.h"
 
-int scan_range[7]={85,120,125,160,165,200}; //Initializing array for storing capacitive touch ranges
+int scan_range[7]={95,160,163,230,232,300}; //Initializing array for storing capacitive touch ranges
 
 /****************************************TSI Initialization function*****************************/
 void Touch_Init(void)
